@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+    font-size: 16px;
+    color: #EA4B39;
+
+  }
+
+  .calc{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 50%;
+    min-height: auto;
+    max-width: 600px;
+    height: 20%;
+    border-radius: 20px;
+    background: #BAFFC2;
+    padding: 20px;
+  }
+
+  .border{
+    border-width: 1px;
+    border-radius: 10px;
+    border-style: dashed;
+    border-color:  #EA4B39;
+    min-height: 20px;
+    margin: 15px;
+    width: auto;
+    background: #BAFFC2;
+    color: #EA4B39;
+    font-weight: bold;
+    padding: 10px;
+  }
+
+  .result{
+    width: auto;
+    min-height: 40px;
+    text-align: left;
+  }
+
